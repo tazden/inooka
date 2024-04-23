@@ -1,0 +1,13 @@
+com.word_game.word_game.app-jetified-annotation-experimental-1.1.0-0 C:\Users\denis\.gradle\caches\transforms-3\09db32a73384ac2dccccf916d7dc0262\transformed\jetified-annotation-experimental-1.1.0\res
+com.word_game.word_game.app-core-1.6.0-1 C:\Users\denis\.gradle\caches\transforms-3\168e459aae59caaab0d2c703cf9d67ab\transformed\core-1.6.0\res
+com.word_game.word_game.app-jetified-window-1.0.0-beta04-2 C:\Users\denis\.gradle\caches\transforms-3\29fe38a5fd6c3bf46cd8e59c2b63489e\transformed\jetified-window-1.0.0-beta04\res
+com.word_game.word_game.app-jetified-window-java-1.0.0-beta04-3 C:\Users\denis\.gradle\caches\transforms-3\978180320ed1d29d66a82edc9d24751e\transformed\jetified-window-java-1.0.0-beta04\res
+com.word_game.word_game.app-main-4 C:\arsenal\inoka\android\app\src\main\res
+com.word_game.word_game.app-release-5 C:\arsenal\inoka\android\app\src\release\res
+com.word_game.word_game.app-pngs-6 C:\arsenal\inoka\build\app\generated\res\pngs\release
+com.word_game.word_game.app-resValues-7 C:\arsenal\inoka\build\app\generated\res\resValues\release
+com.word_game.word_game.app-rs-8 C:\arsenal\inoka\build\app\generated\res\rs\release
+com.word_game.word_game.app-mergeReleaseResources-9 C:\arsenal\inoka\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.word_game.word_game.app-mergeReleaseResources-10 C:\arsenal\inoka\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.word_game.word_game.app-merged_res-11 C:\arsenal\inoka\build\app\intermediates\merged_res\release
+com.word_game.word_game.app-packaged_res-12 C:\arsenal\inoka\build\path_provider_android\intermediates\packaged_res\release

@@ -1,0 +1,1 @@
+ C:\\arsenal\\inoka\\.dart_tool\\flutter_build\\1950d93cd250bea18f466f34d8635845\\native_assets.yaml: 
